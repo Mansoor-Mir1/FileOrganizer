@@ -1,8 +1,8 @@
 # Auto File Organizer 📁
 
-A Python automation application that automatically 
-organizes files into categorized folders based on 
-file type. Features undo support, preview mode, 
+A Python automation application that automatically
+organizes files into categorized folders based on
+file type. Features undo support, preview mode,
 custom categories and detailed logging.
 
 ---
@@ -26,7 +26,7 @@ custom categories and detailed logging.
 ## Default Categories
 
 | Category | Extensions |
-|----------|------------|
+| ---------- | ------------ |
 | Images | .jpg .jpeg .png .gif .bmp .webp |
 | PDFs | .pdf |
 | Videos | .mp4 .mkv .avi .mov |
@@ -44,7 +44,7 @@ custom categories and detailed logging.
 ## Menu Options
 
 | Option | Description |
-|--------|-------------|
+| -------- | ------------- |
 | 1 | Organize Files |
 | 2 | Undo Last Organize |
 | 3 | Add / Update Category |
@@ -56,7 +56,7 @@ custom categories and detailed logging.
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/Mansoor-Mir1/FileOrganizer.git
+git clone [https://github.com/Mansoor-Mir1/FileOrganizer.git]
 cd FileOrganizer
 
 2. Run the program:
